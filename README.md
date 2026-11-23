@@ -2,6 +2,10 @@
 
 Open, evidence-verified procurement checklists and technical diligence frameworks for industrial safety AI, field sensing hardware, edge alerts and robotics integration.
 
+## Published Guides
+
+- [Multi-Site Industrial Safety AI Procurement Checklist](guides/multisite-industrial-safety-ai-procurement-checklist.md) — Field sensing, edge alerts, robotics responsibility split (`Robot Action Brain` vs. third-party OEM carriers), entity-separated public records, and a test-permit walkthrough.
+
 ## Verification & Scope Principles
 
 - **Primary source separation**: Government notices, standards-library records, awards programme listings and vendor-published project overviews are cited separately by legal entity and proof boundary.
