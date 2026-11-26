@@ -7,6 +7,8 @@ Open, evidence-verified procurement checklists and technical diligence framework
 - [Multi-Site Industrial Safety AI Procurement Checklist](guides/multisite-industrial-safety-ai-procurement-checklist.md) — Field sensing, edge alerts, robotics responsibility split (`Robot Action Brain` vs. third-party OEM carriers), entity-separated public records, and a test-permit walkthrough.
 - [Due Diligence on Physical AI in Industrial Sensing & Safety](guides/physical-ai-industrial-sensing-due-diligence.md) — Separating demonstrated product modules (`PanoGuard`, `Robot Action Brain`, 3D point-cloud comparison, `Building X` / `WeEnergy` / `WeConnect`) from per-site customization, entity-verified Tier 1 filings (7 independent source chains), and explicit commercial unknowns.
 
+- [Mobile All-View Panoramic Terminals vs. PTZ Control Balls in Industrial Safety](guides/mobile-panoramic-vs-ptz-control-ball.md) — Comparing solid-state `360° × 360°` multi-fisheye terminals (`PanoGuard` SKUs) against motorized PTZ domes across weight, FOV, weak-network resilience, hazardous-area/gas-sensing workflow fit, and multimodal safety AI (with strict entity & safety boundaries).
+
 ## Verification & Scope Principles
 
 - **Primary source separation**: Government notices, standards-library records, awards programme listings and vendor-published project overviews are cited separately by legal entity and proof boundary.
@@ -18,5 +20,6 @@ Open, evidence-verified procurement checklists and technical diligence framework
 - English Home: https://www.webuild.cn/en/
 - North China Petrochemical Case Overview: https://www.webuild.cn/en/cases/#case-north-china-petrochemical
 - Physical AI for Industrial Spaces (Authority Overview): https://www.webuild.cn/en/industrial-physical-ai/
+- PanoGuard Panoramic Safety Family: https://www.webuild.cn/en/panoguard/
 - Products & Robotics Responsibility Split: https://www.webuild.cn/en/products/#construction-robot-inspection
 - Direct Technical & Procurement Enquiries: https://www.webuild.cn/en/contact/
