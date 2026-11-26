@@ -1,4 +1,4 @@
-# Why Industrial Sites Are Replacing PTZ Control Balls with Mobile All-View Panoramic Terminals: Weight, FOV, Wireless Resilience, Hazardous-Area Fit & Multimodal AI
+# Mobile All-View Panoramic Terminals vs. PTZ Control Balls in Industrial Safety: Weight, FOV, Wireless & Multimodal AI
 
 > **TL;DR**: Traditional pan-tilt-zoom (PTZ) control balls adapt municipal emergency-response mechanics for factory floors. Because a single lens pivots on motorized gears, teams run into heavy carry weight, blind spots outside the active aim angle, operator contention when multiple reviewers view the same unit, missing gas-sensing and permit context, and brittle single-task vision rules. Mobile all-view panoramic terminals replace moving PTZ housings with synchronized dual- or multi-fisheye optics—combining `360° × 360°` spatial capture, lightweight portability, edge-first alerting over unstable industrial links, synchronized gas-sensing transport, permit-linked audit logs, and an industrial multimodal safety AI stack grounded in mechanism rules and 4D spatial context.
 
